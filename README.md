@@ -1,6 +1,5 @@
 # Image Forensics OSN
 
-**2023.8.20**: :rocket: We release a novel and more powerful forgery detection framework [FOCAL](https://github.com/HighwayWu/FOCAL).
 
 ## Table of Contents
 
@@ -115,6 +114,4 @@ If you use this code/dataset for your research, please consider citing the refer
 }
 ```
 
-## Acknowledgments
-- Part of the network codes are based on the [SCSE-U-Net](https://github.com/maloyan/Roscosmos) and [DiffJPEG](https://github.com/mlomnitz/DiffJPEG)
-- The [Tianchi Competition](https://tianchi.aliyun.com/competition/entrance/531812/introduction)
+
